@@ -11,7 +11,7 @@ I am looking for job opportunities and I hope this project helps me to present s
 ps: images are included in the view/images folder, if you want to insert a new book with book cover, 
 it is necessary to place your book cover image in the images folder and also insert the cover image path in the form input value.
 
-The objective of this project was design a book library application for admin users and staff.
+The objective of this project was develop a book library application for admin users and staff.
 - Library is accessed using the admin/staff USERNAME or PASSWORD.
 - Only the Admin ['role'] has the right to create a new user.
 - Staff can not add new user, but can add book, delete book, edit book and send enquiries to admin user.
