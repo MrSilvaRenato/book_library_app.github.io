@@ -6,8 +6,8 @@ The necessary mysql database you will find in the mysql-database folder.
 This project is part of my portfolio while I have been studying and learning.
 I am looking for job opportunities and I hope this project helps me to show some of my skills and knowledge.
 
-ps: images are included in the media folder, if you want to insert a new book with book cover, 
-it is necessary to place your book cover image in the media folder and also insert the cover image path in the form input value.
+ps: images are included in the view/images folder, if you want to insert a new book with book cover, 
+it is necessary to place your book cover image in the images folder and also insert the cover image path in the form input value.
 
 The objective of this project was design a book library application for admin users and staff.
 - Library is accessed using the admin/staff USERNAME or PASSWORD.
